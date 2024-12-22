@@ -19,8 +19,13 @@ To get some details and background of this project visit the link below:
 
 ### Screenshot
 
-![Desktop Screenshot - Blog Preview Card](./Screenshot-Frontend Mentor Blog preview card-Desktop.png)
-![Mobile Screenshot - Blog Preview Card](./Screenshot-Frontend Mentor Blog preview card-Mobile.png)
+Desktop version
+
+![Desktop Screenshot - Blog Preview Card](./screenshot_blog-preview-card_desktop.png)
+
+Mobile version
+
+![Mobile Screenshot - Blog Preview Card](./screenshot_blog-preview-card_mobile.png)
 
 ### Links
 
